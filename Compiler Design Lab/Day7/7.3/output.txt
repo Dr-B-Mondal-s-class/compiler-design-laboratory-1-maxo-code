@@ -1,0 +1,1 @@
+int b=20;float c = 7.5;i am Abhishek
