@@ -1,0 +1,7 @@
+Problem 6.2 - Lex program to verify valid phone number.
+
+        Sample Input: +9196734
+        Sample Output: Invalid Mobile Number
+        
+        Sample Input: +91 9721407407
+        Sample Output: Valid Mobile Number
