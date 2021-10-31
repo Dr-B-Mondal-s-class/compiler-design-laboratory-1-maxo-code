@@ -1,4 +1,4 @@
-Problem 6.1 - Lex program to check valid email address.
+Problem 6.2 - Lex program to check valid email address.
 
         Sample Input: abhikumarkushwaha@gmail.com
         Sample Output: valid
