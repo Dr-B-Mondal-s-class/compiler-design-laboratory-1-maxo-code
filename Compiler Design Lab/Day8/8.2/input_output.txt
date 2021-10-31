@@ -1,0 +1,7 @@
+Program 2 : Program using Lex and YACC which accept strings that starts and ends with 0 or 1
+
+Input : 8656734783
+Output : Input string is accepted.
+
+Input : eheh567922
+Output : Input string is not accepted.
