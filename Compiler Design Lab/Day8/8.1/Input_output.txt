@@ -1,0 +1,7 @@
+Program 1 : Lex and YACC programs to check whether a given string is Palindrome or Not.
+
+Input : Abhishek
+Output : Input string is pallindrome : Abhishek
+
+Input : ffegegm
+Output : Input string is not pallindrome : ffegegm
